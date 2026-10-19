@@ -18,8 +18,34 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
 - 💡 **Interests:** Software Testing, DevOps, DataEngineering, Data Administration
 - 🌱 **I’m currently learning**: various backend and deployment technologies, along with advanced design priciples
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+</br>
+
+
+## 🛠️ Tech Stack
+
+### Backend
+<img src="https://skillicons.dev/icons?i=spring,laravel" />
+
+### Client-Side
+<img src="https://skillicons.dev/icons?i=html,css,javascript,flutter" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,php,python"/>
+
+### Databases
+<div>
+  <img alt="MS SQL Server" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</div>
+
+### Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,docker"/>
+  &nbsp;
+  <img alt="Junit" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"/>
+</div>
 
 ## 📬 Get in Touch
 
