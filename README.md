@@ -9,7 +9,6 @@
 </div>
 
 </br>
-</br>
 
 ## 🚀 About Me
 
@@ -17,6 +16,7 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
 
 - 💡 **Interests:** Software Testing, DevOps, DataEngineering, Data Administration
 - 🌱 **I’m currently learning**: various backend and deployment technologies, along with advanced design priciples
+- 💻 **Previous Roles:** Former Java Enterprise Developer Intern @ Ejada Systems
 
 
 </br>
