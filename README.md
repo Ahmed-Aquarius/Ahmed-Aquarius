@@ -10,15 +10,14 @@
 
 </br>
 </br>
-</br>
-</br>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+I am a Software Engineer with a degree in **Information Systems**. I have hands-on experience building secure, modular, and robust web applications and REST APIs using **Spring Boot**. Besides that, I have applied advanced data management and data engineering concepts to practical solutions. "I am particularly passionate about **clean architecture**. When it comes to software design and code optimization, I strive for excellence and save no effort.
+
+- 💡 **Interests:** Software Testing, DevOps, DataEngineering, Data Administration
+- 🌱 **I’m currently learning**: various backend and deployment technologies, along with advanced design priciples
+
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
