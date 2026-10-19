@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer with a degree in **Information Systems**. I have hands-on experience building secure, modular, and robust web applications and REST APIs using **Spring Boot**. Besides that, I have applied advanced data management and data engineering concepts to practical solutions. "I am particularly passionate about **clean architecture**. When it comes to software design and code optimization, I strive for excellence and save no effort.
+I am a Software Engineer with a degree in **Information Systems**. I have hands-on experience building secure, modular, and robust web applications and REST APIs using **Spring Boot**. Besides that, I have applied advanced data management and data engineering concepts to practical solutions. I am particularly passionate about **clean architecture**. When it comes to software design and code optimization, I strive for excellence and save no effort.
 
 - 💡 **Interests:** Software Testing, DevOps, DataEngineering, Data Administration
 - 🌱 **I’m currently learning**: various backend and deployment technologies, along with advanced design priciples
