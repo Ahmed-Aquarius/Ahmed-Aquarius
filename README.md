@@ -55,14 +55,15 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
   <a href="https://www.linkedin.com/in/ahmed-hossam-elalfy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ahmed.h.elalfyy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-</br>
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and build something valuable together 🚀
 
 
 
