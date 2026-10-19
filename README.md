@@ -47,10 +47,20 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
   <img alt="Junit" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"/>
 </div>
 
-## 📬 Get in Touch
+## 🌐 Connect with me
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+</br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hossam-elalfy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmed.h.elalfyy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+</br>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
