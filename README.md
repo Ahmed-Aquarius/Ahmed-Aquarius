@@ -27,18 +27,18 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
 ### Backend
 <img src="https://skillicons.dev/icons?i=spring,laravel" />
 
-### Client-Side
-<img src="https://skillicons.dev/icons?i=html,css,javascript,flutter" />
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,php,python"/>
-
 ### Databases
 <div>
   <img alt="MS SQL Server" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </div>
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,php,python"/>
+
+### Client-Side
+<img src="https://skillicons.dev/icons?i=html,css,javascript,flutter" />
 
 ### Tools
 <div>
