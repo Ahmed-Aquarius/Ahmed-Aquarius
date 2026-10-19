@@ -1,8 +1,8 @@
 <h1 align="center">Hello everyone, I'm Ahmed ElAlfy! 👋</h1>
 
-<p align="center"><strong><span style="font-size: 1.4em;">Backend Engineer</span></strong></p>
+<p align="center"><strong><span style="font-size: 2em;">Backend Engineer</span></strong></p>
   
-<p align="center">Graduate of the Faculty of Computers and Artificial Intelligence, Cairo University</p>
+<p align="center"><strong><span style="font-size: 1.4em;">Graduate of the Faculty of Computers and Artificial Intelligence, Cairo University</span></strong></p>
 
 
 
