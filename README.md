@@ -47,6 +47,22 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
   <img alt="Junit" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"/>
 </div>
 
+
+</br>
+
+
+## 📊 GitHub Stats
+
+</br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aquarius&layout=compact&theme=radical&count_private=true&hide_border=true"/>
+</div>
+
+
+</br>
+
+
 ## 🌐 Connect with me
 
 </br>
@@ -61,9 +77,11 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
   </a>
 </div>
 
+
 ---
 
-Thanks for stopping by! Let's connect and build something valuable together 🚀
+
+<p align="center"><em>Thanks for stopping by! Let's connect and build something valuable together 🤝</em></p>
 
 
 
