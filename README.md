@@ -1,6 +1,10 @@
-# Hi, I'm <YOUR NAME>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+<h1 align="center">Hello everyone, I'm Ahmed ElAlfy! 👋</h1>
+
+<h2 align="center">Backend Engineer</h2>
+
+<p align="center">Graduate of the Faculty of Computing and Artificial Intelligence, Cairo University</p>
+
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
