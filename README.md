@@ -1,9 +1,10 @@
-
-<h1 align="center">Hello everyone, I'm Ahmed ElAlfy! 👋</h1>
-
-<h2 align="center">Backend Engineer</h2>
-
-<p align="center">Graduate of the Faculty of Computing and Artificial Intelligence, Cairo University</p>
+<div align="center>
+  <h1>Hello everyone, I'm Ahmed ElAlfy! 👋</h1>
+  
+  <p><strong><span style="font-size: 1.4em;">Backend Engineer</span></strong></p>
+  
+  <p>Graduate of the Faculty of Computers and Artificial Intelligence, Cairo University</p>
+</div>
 
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
