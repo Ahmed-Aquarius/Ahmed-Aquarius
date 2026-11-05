@@ -55,8 +55,8 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
 
 </br>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aquarius&layout=compact&theme=radical&count_private=true&hide_border=true"/>
+<div align="center"> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ahmed-Aquarius&layout=compact&theme=nightowl&count_private=true&hide_border=true"/> 
 </div>
 
 
