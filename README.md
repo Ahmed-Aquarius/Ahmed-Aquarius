@@ -31,7 +31,7 @@ I am a Software Engineer with a degree in **Information Systems**. I have hands-
 <div>
   <img alt="MS SQL Server" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb"/>
 </div>
 
 ### Languages
